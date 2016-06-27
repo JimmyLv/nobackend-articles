@@ -3,7 +3,8 @@
 
 ------
 
-原文地址: [12 Steps to a Faster Web App -- Auth0](https://auth0.com/blog/2016/02/22/12-steps-to-a-faster-web-app/)
+> 译文地址：[【译】唯快不破：Web 应用的 13 个优化步骤 - 前端的逆袭](https://zhuanlan.zhihu.com/p/21417465?refer=no-backend)
+> 原文地址： [12 Steps to a Faster Web App -- Auth0](https://auth0.com/blog/2016/02/22/12-steps-to-a-faster-web-app/)
 
 时过境迁，Web 应用比以往任何时候都更具交互性。搞定性能可以帮助你极大地改善终端用户的体验。阅读以下的技巧并学以致用，看看哪些可以用来改善延迟，渲染时间以及整体性能吧！
 
